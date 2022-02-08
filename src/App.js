@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
-import NavBar from './components/NavBar'
+import NavBar from './components/NavBar';
+import Project from './components/Project';
+
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 
@@ -9,6 +11,7 @@ function App() {
     <Router>
     <div className="App">
      <NavBar/>
+ <Project/>
 
     </div>
 
