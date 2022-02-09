@@ -1,12 +1,10 @@
 import React from 'react'
 import {
     Carousel,
-    render,
 } from "react-bootstrap"
 
-function Commissioner (){
-    return (
-        function ControlledCarousel() {
+
+        function Commissioner() {
             const [index, setIndex] = useState(0);
           
             const handleSelect = (selectedIndex, e) => {
@@ -56,9 +54,8 @@ function Commissioner (){
             );
           }
           
-          render(<ControlledCarousel />);
-    )
-}
+          render(<Commissioner />);
+
 
 
 
