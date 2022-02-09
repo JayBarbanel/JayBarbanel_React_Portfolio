@@ -12,9 +12,11 @@ return (
     <Container>
     <Navbar.Brand href="#home">Navbar</Navbar.Brand>
     <Nav className="me-auto">
-      <Nav.Link href="#home">Home</Nav.Link>
-      <Nav.Link href="#features">Features</Nav.Link>
-      <Nav.Link href="#pricing">Pricing</Nav.Link>
+      <Nav.Link href="#home">Recent Work</Nav.Link>
+      <Nav.Link href="#features">About Me</Nav.Link>
+      <Nav.Link href="#pricing">GitHub</Nav.Link>
+      <Nav.Link href="#pricing">LinkedIn</Nav.Link>
+      <Nav.Link href="#pricing">Resume</Nav.Link>
     </Nav>
     </Container>
   </Navbar>

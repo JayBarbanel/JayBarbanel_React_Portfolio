@@ -1,4 +1,6 @@
 import React from 'react'
+
+
 import {
   Card,
   Button,
@@ -6,7 +8,7 @@ import {
 
 function Project(){
     return (
-        <Card style={{ width: '18rem' }}>
+        <Card className="project" style={{ width: '18rem' }}>
   <Card.Img variant="top" src="holder.js/100px180" />
   <Card.Body>
     <Card.Title>The Commissioner App</Card.Title>
