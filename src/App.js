@@ -1,7 +1,10 @@
 import React from 'react';
 import './App.css';
 import NavBar from './components/NavBar';
-import Project from './components/Project';
+import Logo from './components/Logo ';
+import RecentWork from './components/RecentWork';
+import AboutMe from './components/AboutMe';
+import Contact from './components/Contact';
 import 'bootstrap/dist/css/bootstrap.css';
 
 import { BrowserRouter as Router, Route } from 'react-router-dom';
@@ -12,8 +15,12 @@ function App() {
     <Router>
     <div className="App">
      <NavBar/>
- <Project/>
+ <Logo/>
+<RecentWork/>
 
+<AboutMe/>
+
+<Contact/>
     </div>
 
     

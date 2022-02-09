@@ -17,6 +17,7 @@ return (
       <Nav.Link href="#pricing">GitHub</Nav.Link>
       <Nav.Link href="#pricing">LinkedIn</Nav.Link>
       <Nav.Link href="#pricing">Resume</Nav.Link>
+      <Nav.Link href="#pricing">Contact</Nav.Link>
     </Nav>
     </Container>
   </Navbar>

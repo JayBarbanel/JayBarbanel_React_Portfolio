@@ -7,7 +7,7 @@ import {
   Button,
    } from "react-bootstrap" 
 
-function Project(){
+function Logo(){
     return (
         <Card className="project" style={{ width: '150rem'}}>
   <Card.Body>
@@ -17,4 +17,4 @@ function Project(){
     )
 }
 
-export default Project;
+export default Logo;

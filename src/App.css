@@ -16,6 +16,28 @@ display: flex;
 margin-left: 35%;
 }
 
+.Recent{
+  font-size: 60px!important;
+  text-align: left;
+  width: 25%;
+  box-shadow: 5px 10px 10px rgb(148, 146, 146);
+}
+
+.About{
+  font-size: 60px!important;
+  text-align: left;
+  width: 25%;
+  box-shadow: 5px 10px 10px rgb(148, 146, 146);
+  margin-top: 25%;
+}
+
+.Contact{
+  font-size: 60px!important;
+  text-align: left;
+  width: 25%;
+  box-shadow: 5px 10px 10px rgb(148, 146, 146);
+  margin-top: 25%;
+}
 
 .App-logo {
   height: 40vmin;
