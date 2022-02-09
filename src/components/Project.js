@@ -1,4 +1,5 @@
 import React from 'react'
+import logo from '../images/logo.png'
 
 
 import {
@@ -8,15 +9,9 @@ import {
 
 function Project(){
     return (
-        <Card className="project" style={{ width: '18rem' }}>
-  <Card.Img variant="top" src="holder.js/100px180" />
+        <Card className="project" style={{ width: '150rem'}}>
   <Card.Body>
-    <Card.Title>The Commissioner App</Card.Title>
-    <Card.Text>
-      Some quick example text to build on the card title and make up the bulk of
-      the card's content.
-    </Card.Text>
-    <Button variant="primary">Go somewhere</Button>
+    <Card.Img src={logo} className="logo"/>
   </Card.Body>
 </Card>
     )

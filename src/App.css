@@ -3,8 +3,19 @@
 }
 
 .project{
-  font-size: 100px;
+  height: 700px;
+  border: none!important;
 }
+
+.logo{
+  height: 300px;
+  width: 300px!important;
+align-items: center;
+justify-content: center;
+display: flex;
+margin-left: 35%;
+}
+
 
 .App-logo {
   height: 40vmin;
