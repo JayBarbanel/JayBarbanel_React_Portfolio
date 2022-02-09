@@ -14,8 +14,8 @@ return (
     <Nav className="me-auto">
       <Nav.Link href="#home">Recent Work</Nav.Link>
       <Nav.Link href="#features">About Me</Nav.Link>
-      <Nav.Link href="#pricing">GitHub</Nav.Link>
-      <Nav.Link href="#pricing">LinkedIn</Nav.Link>
+      <Nav.Link href="https://github.com/JayBarbanel">GitHub</Nav.Link>
+      <Nav.Link href="https://www.linkedin.com/in/j-b-29201132/">LinkedIn</Nav.Link>
       <Nav.Link href="#pricing">Resume</Nav.Link>
       <Nav.Link href="#pricing">Contact</Nav.Link>
     </Nav>
