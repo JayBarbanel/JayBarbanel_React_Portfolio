@@ -31,12 +31,22 @@ margin-top: 5%;
   border: none!important;
 }
 
-.About{
+.AboutMe{
   font-size: 60px!important;
   text-align: left;
   width: 25%;
   box-shadow: 5px 10px 10px rgb(148, 146, 146);
   margin-top: 10%;
+  margin-left: 2%;
+}
+
+.About{
+  border-style: solid;
+ border-width: 2px;
+ border-color: black;
+ margin-top: 5%;
+ box-shadow: 5px 10px 10px rgb(148, 146, 146);
+ height:300px;
 }
 
 .Contact{
@@ -46,6 +56,7 @@ margin-top: 5%;
   box-shadow: 5px 10px 10px rgb(148, 146, 146);
   margin-top: 25%;
   margin-bottom: 25%;
+  margin-left: 2%;
 }
 
 
@@ -56,26 +67,4 @@ margin-top: 5%;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

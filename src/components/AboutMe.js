@@ -7,7 +7,8 @@ import {
 
 function AboutMe(){
     return (
-        <Card className="About" body>About Me.</Card>
+        <Card className="AboutMe" body>About Me.</Card>
+        
     )
 }
 
