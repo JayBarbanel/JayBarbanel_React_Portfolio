@@ -13,7 +13,7 @@ function MusicianDB () {
     <p class="card-text">An application thats allows users to search for any band returing their worldwide upcoming tour dates with venue details.</p>
     <a href="https://jaybarbanel.github.io/Musicain_Database/ " class="btn btn-primary">View App</a>
   </div>
-        <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
+        <div id="carouselExampleControlsNoTouching3" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src={img} class="w-20" alt="..."/>
@@ -22,11 +22,11 @@ function MusicianDB () {
       <img src={img2} class="w-20" alt="..."/>
     </div>
   </div>
-  <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">
+  <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching3" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button id="pre"  type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="next">
+  <button id="pre"  type="button" data-bs-target="#carouselExampleControlsNoTouching3" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>

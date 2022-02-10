@@ -3,6 +3,16 @@
    
 }
 
+#carouselExampleControls{
+    position: relative;
+   
+}
+
+#carouselExample{
+    position: relative;
+   
+}
+
 #pre{
     position: absolute;
     right:32%;
@@ -17,6 +27,8 @@
     background-color: black;
    
 }
+
+
 
 .cardWZ{
     box-shadow: 5px 10px 10px rgb(148, 146, 146);
