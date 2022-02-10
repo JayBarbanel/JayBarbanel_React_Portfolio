@@ -2,10 +2,18 @@ import React from "react"
 import img from '../images/wz1.png'
 import img2 from '../images/wz2.png'
 import img3 from '../images/wz3.png'
-import "./Carousel.css"
+import img4 from '../images/wz4 .png'
 
-function Commissioner () {
+import "./Warzone.css"
+
+function Warzone () {
     return (
+        <div class="cardWZ">
+             <div class="card-body">
+    <h5 class="card-title">Warzone Weapon Review</h5>
+    <p class="card-text">Ann application thats allows users to create a profile, login, and leave reviews on specific in game weapons.</p>
+    <a href="https://nameless-plains-70878.herokuapp.com/login " class="btn btn-primary">View App</a>
+  </div>
         <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -17,6 +25,9 @@ function Commissioner () {
     <div class="carousel-item">
       <img src={img3} class="w-20" alt="..."/>
     </div>
+    <div class="carousel-item">
+      <img src={img4} class="w-20" alt="..."/>
+    </div>
   </div>
   <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -27,10 +38,11 @@ function Commissioner () {
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+</div>
       
     )
 }
 
 
-export default Commissioner;
+export default Warzone;
 
