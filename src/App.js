@@ -5,7 +5,7 @@ import Logo from './components/Logo ';
 import RecentWork from './components/RecentWork';
 import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
-import Commissioner, {CarouselItem} from './components/Commissioner';
+import Commissioner, {CarouselItem}  from './components/Commissioner';
 
 import 'bootstrap/dist/css/bootstrap.css';
 
