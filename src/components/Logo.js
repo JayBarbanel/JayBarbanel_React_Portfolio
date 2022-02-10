@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../Images/sitelogo.png'
+import logo from '../images/sitelogo.png'
 import {
     Card,
      } from "react-bootstrap" 
