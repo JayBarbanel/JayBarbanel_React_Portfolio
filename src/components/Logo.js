@@ -7,10 +7,8 @@ import {
 
 function Logo (){
 return(
-    <Card className="logo" style={{ width: '150rem'}}>
-         <Card.Body>
+    <Card className="logo">
           <Card.Img src={logo} className="logo"/>
-  </Card.Body>
 </Card>
 )
 }

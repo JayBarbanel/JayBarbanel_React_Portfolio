@@ -1,33 +1,31 @@
 import React from "react"
-import img from '../images/wz1.png'
-import img2 from '../images/wz2.png'
-import img3 from '../images/wz3.png'
-import img4 from '../images/wz4 .png'
+import img from '../images/com1.jpg'
+import img2 from '../images/comm2.jpg'
+import img3 from '../images/comm3.jpg'
+
 
 import "./Warzone.css"
 
-function Warzone () {
+function Commissioner() {
     return (
         <div class="cardWZ">
              <div class="card-body">
-    <h5 class="card-title">Warzone Weapon Review</h5>
-    <p class="card-text">An application thats allows users to create a profile, login, and leave reviews on specific in game weapons.</p>
-    <a href="https://nameless-plains-70878.herokuapp.com/login " class="btn btn-primary">View App</a>
+    <h5 class="card-title">The Commissioner App</h5>
+    <p class="card-text">An application thats allows users to create a profile, login and search for any NBA basektball team, returning current season statistics.</p>
+    <a href="https://peaceful-cliffs-88132.herokuapp.com/" class="btn btn-primary">View App</a>
   </div>
         <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src={img} class="w-20" alt="..."/>
+      <img src={img} class="w-10" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src={img2} class="w-20" alt="..."/>
+      <img src={img2} class="w-10" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src={img3} class="w-20" alt="..."/>
+      <img src={img3} class="w-10" alt="..."/>
     </div>
-    <div class="carousel-item">
-      <img src={img4} class="w-20" alt="..."/>
-    </div>
+
   </div>
   <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -44,5 +42,4 @@ function Warzone () {
 }
 
 
-export default Warzone;
-
+export default Commissioner;

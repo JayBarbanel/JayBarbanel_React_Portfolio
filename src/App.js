@@ -5,7 +5,9 @@ import Logo from './components/Logo';
 import RecentWork from './components/RecentWork';
 import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
+import Commissioner from './components/Commissioner';
 import Warzone from './components/Warzone';
+import MusicianDB from './components/MusicianDB';
 
 import 'bootstrap/dist/css/bootstrap.css';
 
@@ -20,7 +22,9 @@ function App() {
      <NavBar/>
  <Logo/>
 <RecentWork/>
+<Commissioner/>
 <Warzone/>
+<MusicianDB/>
 
 
 <AboutMe/>

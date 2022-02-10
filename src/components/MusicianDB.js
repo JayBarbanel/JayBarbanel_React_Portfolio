@@ -1,18 +1,17 @@
 import React from "react"
-import img from '../images/wz1.png'
-import img2 from '../images/wz2.png'
-import img3 from '../images/wz3.png'
-import img4 from '../images/wz4 .png'
+import img from '../images/msdb.png'
+import img2 from '../images/msdb2.png'
+
 
 import "./Warzone.css"
 
-function Warzone () {
+function MusicianDB () {
     return (
         <div class="cardWZ">
              <div class="card-body">
-    <h5 class="card-title">Warzone Weapon Review</h5>
-    <p class="card-text">An application thats allows users to create a profile, login, and leave reviews on specific in game weapons.</p>
-    <a href="https://nameless-plains-70878.herokuapp.com/login " class="btn btn-primary">View App</a>
+    <h5 class="card-title">Musican Database</h5>
+    <p class="card-text">An application thats allows users to search for any band returing their worldwide upcoming tour dates with venue details.</p>
+    <a href="https://jaybarbanel.github.io/Musicain_Database/ " class="btn btn-primary">View App</a>
   </div>
         <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
@@ -21,12 +20,6 @@ function Warzone () {
     </div>
     <div class="carousel-item">
       <img src={img2} class="w-20" alt="..."/>
-    </div>
-    <div class="carousel-item">
-      <img src={img3} class="w-20" alt="..."/>
-    </div>
-    <div class="carousel-item">
-      <img src={img4} class="w-20" alt="..."/>
     </div>
   </div>
   <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">
@@ -44,5 +37,4 @@ function Warzone () {
 }
 
 
-export default Warzone;
-
+export default MusicianDB;
