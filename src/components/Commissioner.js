@@ -11,6 +11,7 @@ export const CarouselItem =({ children, width}) => {
 
 const Carousel = ({children}) => {
     const [activeIndex, setActiveIndex] = useState (0);
+    const [paused, setPaused] = useState(false);
 
     const updateIndex = (newIndex) => {
         if (newIndex < 0) {
@@ -24,7 +25,9 @@ const Carousel = ({children}) => {
 
         useEffect(() =>{
             const interval = setInterval (() => {
+                if (!paused) {
                 updateIndex(activeIndex +1 );
+                }
             }, 3000);
             return () => {
                 if (interval) {
@@ -34,7 +37,10 @@ const Carousel = ({children}) => {
         });
     
     return (
-        <div className="carousel">
+        <div className="carousel"
+        onMouseEnter={() => setPaused(true)}
+        onMouseLeave={() => setPaused(false)}
+        >
             <div 
             className="inner" 
             style={{transform: `translateX(-${activeIndex * 100}%)`}}
