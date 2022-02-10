@@ -1,0 +1,19 @@
+#carouselExampleControlsNoTouching{
+    position: relative;
+   
+}
+
+#pre{
+    position: absolute;
+    right:32%;
+    top:50%;
+    background-color: black;
+}
+
+#pro{
+    position: absolute;
+    right:65.5%;
+    top:50%;
+    background-color: black;
+   
+}
