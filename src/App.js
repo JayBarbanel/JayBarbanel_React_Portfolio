@@ -9,6 +9,7 @@ import Commissioner from './components/Commissioner';
 import Warzone from './components/Warzone';
 import MusicianDB from './components/MusicianDB';
 import About from './components/About';
+import Touch from './components/Touch';
 
 import 'bootstrap/dist/css/bootstrap.css';
 
@@ -32,6 +33,7 @@ function App() {
 <About/>
 
 <Contact/>
+<Touch/>
     </div>
 
     
