@@ -16,10 +16,10 @@ function MusicianDB () {
         <div id="carouselExampleControlsNoTouching3" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src={img} class="w-20" alt="..."/>
+      <img src={img} class="w-20" alt="landing page of app, search for musician"/>
     </div>
     <div class="carousel-item">
-      <img src={img2} class="w-20" alt="..."/>
+      <img src={img2} class="w-20" alt="all band show details"/>
     </div>
   </div>
   <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching3" data-bs-slide="prev">

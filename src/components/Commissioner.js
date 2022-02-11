@@ -17,13 +17,13 @@ function Commissioner() {
         <div id="carouselExampleControlsNoTouching1" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src={img} class="w-10" alt="..."/>
+      <img src={img} class="w-10" alt="landing page of app"/>
     </div>
     <div class="carousel-item">
-      <img src={img2} class="w-10" alt="..."/>
+      <img src={img2} class="w-10" alt="second page with pulled data"/>
     </div>
     <div class="carousel-item">
-      <img src={img3} class="w-10" alt="..."/>
+      <img src={img3} class="w-10" alt="update page with team selection"/>
     </div>
 
   </div>

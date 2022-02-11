@@ -17,16 +17,16 @@ function Warzone () {
         <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src={img} class="w-20" alt="..."/>
+      <img src={img} class="w-20" alt="landing page, login or sign up"/>
     </div>
     <div class="carousel-item">
-      <img src={img2} class="w-20" alt="..."/>
+      <img src={img2} class="w-20" alt="menu page, select weapon to review"/>
     </div>
     <div class="carousel-item">
-      <img src={img3} class="w-20" alt="..."/>
+      <img src={img3} class="w-20" alt="aar page, leave review"/>
     </div>
     <div class="carousel-item">
-      <img src={img4} class="w-20" alt="..."/>
+      <img src={img4} class="w-20" alt="sub machine gun page, leave review"/>
     </div>
   </div>
   <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">
