@@ -6,6 +6,7 @@ import "./Warzone.css"
 function About (){
     return (
         <div class="About w-100">
+          <element id="aboutme"/>
   <div class="card-body">
     <p class="about-text">For the past several years, I worked in the photography industry as an Agent and Producer <br/>
     to some of Los Angeles' and New Yorks' top photographers and directors.<br/>

@@ -12,7 +12,7 @@ function Warzone () {
              <div class="card-body">
     <h5 class="card-title">Warzone Weapon Review</h5>
     <p class="card-text">An application thats allows users to create a profile, login, and leave reviews on specific in game weapons.</p>
-    <a href="https://nameless-plains-70878.herokuapp.com/login " class="btn btn-primary">View App</a>
+    <a id="view" href="https://nameless-plains-70878.herokuapp.com/login " class="btn btn-primary">View App</a>
   </div>
         <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">

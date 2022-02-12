@@ -7,6 +7,7 @@ import {
 
 function RecentWork(){
     return (
+       
         <Card className="Recent" body>Recent Work.</Card>
     )
 }
