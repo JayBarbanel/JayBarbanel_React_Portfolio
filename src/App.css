@@ -40,7 +40,7 @@ margin-top: 5%;
   text-align: left;
   width: 25%;
   box-shadow: 5px 10px 10px rgb(148, 146, 146);
-  margin-top: 10%;
+  margin-top: 5%;
   margin-left: 2%;
 }
 
@@ -78,10 +78,20 @@ margin-top: 5%;
 
 
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
+@media screen and (max-width: 768px) {
+ .AboutMe{
+   font-size: 30px!important;
+ }
+
+ .Recent{
+  font-size: 30px!important;
+ }
+.Contact{
+  font-size: 30px!important;
+}
+ .logo{
+   display: none;
+ }
+}
 

@@ -14,7 +14,7 @@ function About (){
     With a big art influenced background, I find that using my creativity and new skills I developed <br/>
     at the UCLA coding bootcamp, front end development has sparked my interest.  <br/>
     I received my certificate as a full stack developer in Feb. 2022, and excited to enter the field.  </p>
-    <img src={img} class="avatar" alt="..."/>
+    <img src={img} class="avatar" alt="avatar"/>
   </div>
 </div>
     )

@@ -7,14 +7,14 @@
 #pre{
     position: absolute;
     right:32%;
-    top:50%;
+    top:80%;
     background-color: black;
 }
 
 #pro{
     position: absolute;
     right:65.5%;
-    top:50%;
+    top:80%;
     background-color: black;
    
 }
@@ -50,3 +50,9 @@
     margin-top: -10%;
 }
 
+
+@media screen and (max-width: 768px) {
+    .avatar{
+        display: none;
+    }
+   }
