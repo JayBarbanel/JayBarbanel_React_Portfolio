@@ -7,9 +7,9 @@ import {
 
 function Logo (){
 return(
-    <Card className="logo">
+
           <Card.Img src={logo} className="logo"/>
-</Card>
+
 )
 }
 

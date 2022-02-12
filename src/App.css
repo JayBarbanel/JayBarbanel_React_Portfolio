@@ -13,9 +13,13 @@
 align-items: center;
 justify-content: center;
 display: flex;
-margin-left: 40%;
+margin-left: 43%;
 margin-top: 5%;
 
+}
+
+#nav{
+  text-align: center;
 }
 
 .Recent{
@@ -71,6 +75,7 @@ margin-top: 5%;
 #sub-btn{
   margin-top: 17px;
 }
+
 
 
 @media (prefers-reduced-motion: no-preference) {
