@@ -15,6 +15,7 @@ function Touch () {
                      <label for="exampleFormControlTextarea1" class="form-label">Message</label>
                      <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                      <button id="sub-btn"type="button" class="btn btn-dark">Submit</button>
+                     <p>or Email directly @ jbarbanel531@gmail.com</p>
                 </div>
 
             </div>
