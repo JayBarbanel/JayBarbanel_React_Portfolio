@@ -12,6 +12,7 @@ function MusicianDB () {
     <h5 class="card-title">Musican Database</h5>
     <p class="card-text">An application thats allows users to search for any band returing their worldwide upcoming tour dates with venue details.</p>
     <a id="view" href="https://jaybarbanel.github.io/Musicain_Database/ " class="btn btn-primary">View App</a>
+    <a id="view" href="https://jaybarbanel.github.io/Musicain_Database/ " class="btn btn-primary">GitHub</a>
   </div>
         <div id="carouselExampleControlsNoTouching3" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
