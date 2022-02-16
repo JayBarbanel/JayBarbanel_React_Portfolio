@@ -12,7 +12,8 @@ function Commissioner() {
           <element id="recentwork"/>            
         <div class="card-body">
     <h5 class="card-title">The Commissioner App</h5>
-    <p class="card-text">An application thats allows users to create a profile, login and search for any NBA basektball team, returning current season statistics.</p>
+    <p class="card-text">An application thats allows users to create a profile, login and search for any NBA basektball team, returning current season statistics.<br/>
+    This app was built using React.JS, JavaScript, Bootstrap React, Bootstrap, HTML and CSS</p>
     <a id="view" href="https://peaceful-cliffs-88132.herokuapp.com/" class="btn btn-primary">View App</a>
     <a id="view" href="https://github.com/JayBarbanel/Commissioner" class="btn btn-primary">GitHub</a>
   </div>
