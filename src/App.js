@@ -23,14 +23,13 @@ function App() {
     <div className="App">
      <NavBar/>
  <Logo/>
+ <AboutMe/>
+<About/>
 <RecentWork/>
 <Commissioner/>
 <Warzone/>
 <MusicianDB/>
 
-
-<AboutMe/>
-<About/>
 
 <Contact/>
 <Touch/>

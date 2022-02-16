@@ -49,6 +49,10 @@
     margin-top: -12%;
 }
 
+.Touch{
+    height: 40%;
+}
+
 
 @media screen and (max-width: 768px) {
     .avatar{
