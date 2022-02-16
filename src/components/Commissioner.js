@@ -14,6 +14,7 @@ function Commissioner() {
     <h5 class="card-title">The Commissioner App</h5>
     <p class="card-text">An application thats allows users to create a profile, login and search for any NBA basektball team, returning current season statistics.</p>
     <a id="view" href="https://peaceful-cliffs-88132.herokuapp.com/" class="btn btn-primary">View App</a>
+    <a id="view" href="https://github.com/JayBarbanel/Commissioner" class="btn btn-primary">GitHub</a>
   </div>
         <div id="carouselExampleControlsNoTouching1" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
