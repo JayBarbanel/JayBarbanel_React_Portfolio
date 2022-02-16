@@ -10,7 +10,8 @@ function MusicianDB () {
         <div class="cardWZ">
              <div class="card-body">
     <h5 class="card-title">Musican Database</h5>
-    <p class="card-text">An application thats allows users to search for any band returing their worldwide upcoming tour dates with venue details.</p>
+    <p class="card-text">An application thats allows users to search for any band returing their worldwide upcoming tour dates with venue details.<br/>
+    This app was built using JavaScript, HTMl and CSS. Three sperate APIs were used to return background images, concert details and venue details.</p>
     <a id="view" href="https://jaybarbanel.github.io/Musicain_Database/ " class="btn btn-primary">View App</a>
     <a id="view" href="https://jaybarbanel.github.io/Musicain_Database/ " class="btn btn-primary">GitHub</a>
   </div>
