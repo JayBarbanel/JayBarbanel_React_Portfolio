@@ -95,3 +95,18 @@ margin-top: 5%;
  }
 }
 
+@media screen and (max-width: 576px) {
+  .AboutMe{
+    font-size: 15px!important;
+  }
+ 
+  .Recent{
+   font-size: 15px!important;
+  }
+ .Contact{
+   font-size: 15px!important;
+ }
+  .logo{
+    display: none;
+  }
+}
