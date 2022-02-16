@@ -1,4 +1,5 @@
 import React from 'react';
+import Resume from '../images/resume.pdf';
 
 import {
     Navbar,
@@ -17,7 +18,7 @@ return (
       <Nav.Link href="#about">About Me</Nav.Link>
       <Nav.Link href="https://github.com/JayBarbanel">GitHub</Nav.Link>
       <Nav.Link href="https://www.linkedin.com/in/j-b-29201132/">LinkedIn</Nav.Link>
-      <Nav.Link href="./Images/JosefBarbanel_2022_Resume.pdf" download>Resume</Nav.Link>
+      <Nav.Link href={Resume} download>Resume</Nav.Link>
       <Nav.Link href="#contact">Contact</Nav.Link>
     </Nav>
     </Container>
