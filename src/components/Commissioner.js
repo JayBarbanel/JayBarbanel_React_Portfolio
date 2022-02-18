@@ -1,7 +1,7 @@
 import React from "react"
-import img from '../images/com1.jpg'
-import img2 from '../images/comm2.jpg'
-import img3 from '../images/comm3.jpg'
+import img from '../Images/com1.jpg'
+import img2 from '../Images/comm2.jpg'
+import img3 from '../Images/comm3.jpg'
 
 
 import "./Warzone.css"

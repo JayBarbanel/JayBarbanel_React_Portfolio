@@ -1,5 +1,5 @@
 import React from 'react';
-import Resume from '../images/resume.pdf';
+import Resume from '../Images/resume.pdf';
 
 import {
     Navbar,

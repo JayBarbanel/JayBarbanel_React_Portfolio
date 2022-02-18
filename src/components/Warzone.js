@@ -1,8 +1,8 @@
 import React from "react"
-import img from '../images/wz1.png'
-import img2 from '../images/wz2.png'
-import img3 from '../images/wz3.png'
-import img4 from '../images/wz4 .png'
+import img from '../Images/wz1.png'
+import img2 from '../Images/wz2.png'
+import img3 from '../Images/wz3.png'
+import img4 from '../Images/wz4 .png'
 
 import "./Warzone.css"
 

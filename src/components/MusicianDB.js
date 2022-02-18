@@ -1,6 +1,6 @@
 import React from "react"
-import img from '../images/msdb.png'
-import img2 from '../images/msdb2.png'
+import img from '../Images/msdb.png'
+import img2 from '../Images/msdb2.png'
 
 
 import "./Warzone.css"
