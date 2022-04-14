@@ -1,7 +1,8 @@
 import React from "react"
-import img from '../Images/com1.jpg'
-import img2 from '../Images/comm2.jpg'
-import img3 from '../Images/comm3.jpg'
+import land from '../Images/land.png'
+import page2 from '../Images/page2.png'
+import page3 from '../Images/page3.png'
+import page4 from '../Images/page4.png'
 
 
 import "./Warzone.css"
@@ -20,15 +21,17 @@ function Network() {
         <div id="carouselExampleControlsNoTouching1" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src={img} class="w-10" alt="landing page of app"/>
+      <img src={land} class="w-10" alt="landing page of app"/>
     </div>
     <div class="carousel-item">
-      <img src={img2} class="w-10" alt="second page with pulled data"/>
+      <img src={page2} class="w-10" alt="second page with pulled data"/>
     </div>
     <div class="carousel-item">
-      <img src={img3} class="w-10" alt="update page with team selection"/>
+      <img src={page3} class="w-10" alt="update page with team selection"/>
     </div>
-
+    <div class="carousel-item">
+      <img src={page4} class="w-10" alt="update page with team selection"/>
+    </div>
   </div>
   <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching1" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
