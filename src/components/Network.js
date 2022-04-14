@@ -18,7 +18,7 @@ function Network() {
     <a id="view" href="https://peaceful-cliffs-88132.herokuapp.com/" class="btn btn-primary">View App</a>
     <a id="view" href="https://github.com/JayBarbanel/Commissioner" class="btn btn-primary">GitHub</a>
   </div>
-        <div id="carouselExampleControlsNoTouching1" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
+        <div id="carouselExampleControlsNoTouching4" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src={land} class="w-10" alt="landing page of app"/>
@@ -33,11 +33,11 @@ function Network() {
       <img src={page4} class="w-10" alt="update page with team selection"/>
     </div>
   </div>
-  <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching1" data-bs-slide="prev">
+  <button id="pro" type="button" data-bs-target="#carouselExampleControlsNoTouching4" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button id="pre"  type="button" data-bs-target="#carouselExampleControlsNoTouching1" data-bs-slide="next">
+  <button id="pre"  type="button" data-bs-target="#carouselExampleControlsNoTouching4" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
