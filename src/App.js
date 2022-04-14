@@ -10,6 +10,7 @@ import Warzone from './components/Warzone';
 import MusicianDB from './components/MusicianDB';
 import About from './components/About';
 import Touch from './components/Touch';
+import Network from './components/Network';
 
 import 'bootstrap/dist/css/bootstrap.css';
 
@@ -23,14 +24,13 @@ function App() {
     <div className="App">
      <NavBar/>
  <Logo/>
- <AboutMe/>
-<About/>
 <RecentWork/>
+<Network/>
 <Commissioner/>
 <Warzone/>
 <MusicianDB/>
-
-
+<AboutMe/>
+<About/>
 <Contact/>
 <Touch/>
     </div>
