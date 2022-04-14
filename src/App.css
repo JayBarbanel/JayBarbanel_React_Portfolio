@@ -29,6 +29,7 @@ margin-top: 5%;
   box-shadow: 5px 10px 10px rgb(148, 146, 146);
   margin-left: 2%;
   margin-top: 10%!important;
+  font-family: 'Bebas Neue', cursive;
 }
 
 .card-body{
@@ -42,6 +43,7 @@ margin-top: 5%;
   box-shadow: 5px 10px 10px rgb(148, 146, 146);
   margin-top: 5%;
   margin-left: 2%;
+  font-family: 'Bebas Neue', cursive;
 }
 
 .About{
@@ -61,6 +63,7 @@ margin-top: 5%;
   box-shadow: 5px 10px 10px rgb(148, 146, 146);
   margin-top: 5%;
   margin-left: 2%;
+  font-family: 'Bebas Neue', cursive;
 }
 
 .Touch{
@@ -71,6 +74,7 @@ margin-top: 5%;
   margin-bottom: 15%;
   box-shadow: 5px 10px 10px rgb(148, 146, 146);
   height:300px;
+  font-family: 'Bebas Neue', cursive;
 }
 
 #sub-btn{

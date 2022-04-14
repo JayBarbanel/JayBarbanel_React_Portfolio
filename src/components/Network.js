@@ -1,5 +1,5 @@
 import React from "react";
-import land from "../Images/gif.gif";
+import tgn from "../Images/tgn.gif";
 import page2 from "../Images/page2.png";
 import page3 from "../Images/page3.png";
 import page4 from "../Images/page4.png";
@@ -34,7 +34,7 @@ function Network() {
       >
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src={land} class="w-10" alt="landing page of app" />
+            <img src={tgn} class="w-10" alt="landing page of app" />
           </div>
           
       </div>
