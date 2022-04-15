@@ -10,7 +10,7 @@ function Warzone () {
     return (
         <div class="cardWZ">
              <div class="card-body">
-    <h5 class="card-title">Warzone Weapon Review</h5>
+    <h5 class="titleS">Warzone Weapon Review</h5>
     <p class="card-text">An application thats allows users to create a profile, login, and leave reviews on specific in game weapons.<br/>
     This app was built using JavaScript, Handlebars, HTML and CSS</p>
     <a id="view" href="https://nameless-plains-70878.herokuapp.com/login " class="btn btn-primary">View App</a>

@@ -25,10 +25,7 @@
 
 
 .cardWZ{
-    box-shadow: 5px 10px 10px rgb(148, 146, 146);
-    border: black;
-    border-style: solid;
-    border-width: 2px;
+ 
     margin-top: 5%;
     
 }
@@ -41,6 +38,24 @@
 .about-text{
     margin-top: 2%;
    
+}
+
+#nav{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    width: 150rem;
+    margin-right: 5%;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+
+#navbar{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    width: 150rem;
+    align-items: center!important;
 }
 
 .avatar{

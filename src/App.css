@@ -30,6 +30,7 @@ margin-top: 5%;
   margin-left: 2%;
   margin-top: 10%!important;
   font-family: 'Bebas Neue', cursive;
+  color: navy;
 }
 
 .card-body{
@@ -81,6 +82,12 @@ margin-top: 5%;
   margin-top: 17px;
 }
 
+
+.titleS{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 40px;
+  color: navy;
+}
 
 
 

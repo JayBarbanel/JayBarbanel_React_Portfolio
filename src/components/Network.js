@@ -11,11 +11,11 @@ function Network() {
     <div class="cardWZ">
       <element id="recentwork" />
       <div class="card-body">
-        <h5 class="card-title">The Grace Network | Website </h5>
+        <h5 class="titleS">The Grace Network | Website </h5>
         <p class="card-text">
-          Contract work: A website for The Grace Network non profit
+          Contract work: A website for The Grace Network non-profit
           organization. <br /> Responsible for creative direction, frontend
-          maintenence, photo direction, graphics and layout. Built with HTML and
+          maintenence, photo direction, graphics and layout. <br/>Built with HTML and
           CSS.{" "}
         </p>
         <a
