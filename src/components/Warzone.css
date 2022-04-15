@@ -69,6 +69,10 @@
     height: 40%;
 }
 
+.testing{
+    border: none!important;
+}
+
 
 @media screen and (max-width: 768px) {
     .avatar{
