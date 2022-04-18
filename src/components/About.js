@@ -16,7 +16,7 @@ function About (){
     I received my certificate as a full stack developer in Feb. 2022, and excited to enter the field. <br/>
     My goal is to become a Front End Developer.  <br/>
     I feel as if I can be a great asset to the right company.  </p>
-    <img src={img} class="avatar" alt="avatar"/>
+    {/* <img src={img} class="avatar" alt="avatar"/> */}
   </div>
 </div>
     )

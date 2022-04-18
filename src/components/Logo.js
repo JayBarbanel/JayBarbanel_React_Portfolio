@@ -4,12 +4,13 @@ import {
     Card,
      } from "react-bootstrap" 
 
+     import "./Warzone.css"
 
 function Logo (){
 return(
-
+        <Card className="logocard">
           <Card.Img src={logo} className="logo"/>
-
+          </Card>
 )
 }
 

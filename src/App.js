@@ -25,13 +25,13 @@ function App() {
     <div className="App">
      <NavBar/>
  <Logo/>
+ <AboutMe/>
+ <About/>
 <RecentWork/>
 <Network/>
 <Commissioner/>
 <Warzone/>
 <MusicianDB/>
-<AboutMe/>
-<About/>
 <Contact/>
 <Touch/>
     </div>

@@ -37,6 +37,7 @@
 
 .about-text{
     margin-top: 2%;
+    
    
 }
 
@@ -71,6 +72,10 @@
 
 .testing{
     border: none!important;
+}
+
+.logocard{
+    background-color: navy!important;
 }
 
 

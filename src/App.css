@@ -15,7 +15,7 @@ justify-content: center;
 display: flex;
 margin-left: 43%;
 margin-top: 5%;
-
+margin-bottom: 5%;
 }
 
 #nav{
@@ -42,18 +42,18 @@ margin-top: 5%;
   font-size: 60px!important;
   text-align: left;
   width: 25%;
-  box-shadow: 5px 10px 10px rgb(148, 146, 146);
   margin-top: 5%;
-  margin-left: 2%;
+  margin-left: 12%;
   font-family: 'Bebas Neue', cursive;
   color: navy;
+  border: none!important;
 }
 
 .About{
  margin-top: 5%;
  height:300px;
  text-align: center;
- font-size: 25px;
+ font-size: 20px;
 }
 
 .Contact{

@@ -13,7 +13,7 @@ function Network() {
       <div class="card-body">
         <h5 class="titleS">The Grace Network | Website </h5>
         <p class="card-text">
-          Contract work: A website for The Grace Network non-profit
+          Contract work: A website for The Grace Network, a non-profit
           organization. <br /> Responsible for creative direction, frontend
           maintenence, photo direction, graphics and layout. <br/>Built with HTML and
           CSS.{" "}
