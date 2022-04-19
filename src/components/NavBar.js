@@ -8,8 +8,6 @@ import {
     Nav,
 }from "react-bootstrap"
 
-
-
 function NavBar(){
 return (
   <div>
