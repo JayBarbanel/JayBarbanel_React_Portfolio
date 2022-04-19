@@ -11,6 +11,7 @@ import {
 
 function NavBar(){
 return (
+  <div>
   <Navbar id="nav" bg="light" variant="light">
     <Container>
     <Navbar.Brand id="navbar" href="#home">Jay Barbanel | Portfolio </Navbar.Brand>
@@ -24,6 +25,7 @@ return (
     </Nav>
     </Container>
   </Navbar>
+  </div>
 )
 
 }

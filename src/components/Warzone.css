@@ -36,7 +36,7 @@
 }
 
 .about-text{
-    margin-top: 2%;
+    margin-top: -5%;
     
    
 }
@@ -57,6 +57,8 @@
     font-size: 40px;
     width: 150rem;
     align-items: center!important;
+    display: flex;
+    position: relative;
 }
 
 .avatar{
@@ -90,10 +92,16 @@
     .about-text{
         font-size: 11.5px;
     }
+    #navbar{
+        float:left!important;
+    }
    }
 
    @media screen and (max-width: 576px) {
     .avatar{
         display: none;
+    }
+    #navbar{
+        float:left!important;
     }
 }
