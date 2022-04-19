@@ -13,10 +13,9 @@ function NavBar(){
 return (
   <div>
   <Navbar id="name" bg="light" variant="light">
-
     <Navbar.Brand href="#home">Jay Barbanel | Portfolio </Navbar.Brand>
     <Nav className="me-auto">
-      <Nav.Link href="#recentwork">Recent Work</Nav.Link>
+      <Nav.Link id="navview" href="#recentwork">Recent Work</Nav.Link>
       <Nav.Link href="#about">About Me</Nav.Link>
       <Nav.Link href="https://github.com/JayBarbanel">GitHub</Nav.Link>
       <Nav.Link href="https://www.linkedin.com/in/j-b-29201132/">LinkedIn</Nav.Link>
