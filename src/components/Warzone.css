@@ -78,6 +78,10 @@
     background-color: rgb(1, 1, 71)!important;
 }
 
+.button{
+    background-color: transparent!important;
+    border: none!important;
+}
 
 @media screen and (max-width: 768px) {
     .avatar{
